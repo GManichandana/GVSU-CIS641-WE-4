@@ -1,6 +1,9 @@
 # GVSU-CIS641-WE 4
 
-Project description (~1 paragraph)
+Diabetes Risk Prediction System is focused on predicting whether a given data point is diabetes or not using data science techniques, for example, 
+there are some needs like personalized medicine, prevention and management, and patient engagement. By this we can predict disease early, 
+improve decision makingand reduces the cost and it can give better output and improves public health.
+
 
 ## Team Members and Roles
 
