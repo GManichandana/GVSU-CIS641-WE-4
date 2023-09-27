@@ -1,4 +1,4 @@
-# Team Name
+# WE 4
 
 Project description (~1 paragraph)
 
