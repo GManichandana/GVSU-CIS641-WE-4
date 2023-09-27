@@ -13,4 +13,19 @@ improve decision makingand reduces the cost and it can give better output and im
 
 ## Prerequisites
 
+ - understanding the basic of diabetes and types.
+ - Proficiency in programming language used in data science
+ - Collecting the data from individuals
+ - Familiarity with concepts of machine learning
+ - Comfortable with data science libraries like MumPY, pandas, Mat lab, visualization
+
+
 ## Run Instructions
+ 
+ - Environment set up
+ - Install Required Libraries
+ - Data collection and Preprocessing
+ - Evaluation of Model
+ - Testing
+ - Deployment
+ - Collaboration
