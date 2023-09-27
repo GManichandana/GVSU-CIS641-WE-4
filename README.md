@@ -1,4 +1,4 @@
-# WE 4
+# GVSU-CIS641-WE 4
 
 Project description (~1 paragraph)
 
