@@ -22,17 +22,32 @@ especially for this project are all acceptable sources of data.
 
 # Anticipated Technologies
 
-Data Science and Machine Learning.
+- Data Science
+-  Machine Learning.
 
 # Method/Approach
 
-Data collection, Data exploring, Model Selection, Report, Testing, Deployment, and Conclusion
+ - Data collection
+ - Data exploring
+ - Model Selection
+ - Report, Testing
+ - Deployment
+ - Conclusion
 
 # Estimated Timeline
 
-Data collection: 2 weeks, Data exploring: 1 week, Model Selection: 3 weeks, Report: 2 week, Testing: 2 week, Deployment: 3 week, and Conclusion: 1 week
+ - Data collection: 2 weeks
+ - Data exploring: 1 week
+ - Model Selection: 3 weeks
+ - Report: 2 week
+ - Testing: 2 week
+ - Deployment: 3 week
+ - Conclusion: 1 week
 
 
 # Anticipated Problems
 
-Data quality, Privacy of data, Data clening, and Validation
+ - Data quality
+ - Privacy of data
+ - Data clening
+ -  Validation
