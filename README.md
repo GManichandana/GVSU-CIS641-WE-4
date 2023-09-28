@@ -10,6 +10,7 @@ improve decision makingand reduces the cost and it can give better output and im
 * [Manichandana Gopireddy](https://github.com/GManichandana/CIS641-HW2-Gopireddy.git)
 * [Harshitha Chitturi](https://github.com/Harshitha1723/CIS641-HW2-Chitturi.git)
 * [GGLN Pavan Kandulapati](https://github.com/Pavankandulapati/CIS641-HW2-kandulapati.git)
+* [sri geetha devi vegi](https://github.com/srigeethavegi99/CIS641-HW2-Vegi.git)
 
 ## Prerequisites
 
