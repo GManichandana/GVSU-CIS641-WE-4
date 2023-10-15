@@ -13,26 +13,34 @@
             padding: 0;
         }
 
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+        }
+
         h1 {
             background-color: #007acc;
             color: #fff;
-            padding: 20px;
+            padding: 10px;
             margin: 0;
             text-align: center;
         }
 
+        .about {
+            float: right;
+            width: 50%;
+        }
+
         p {
-            margin: 20px;
             padding: 10px;
-            background-color: #fff;
-            border: 1px solid #ddd;
         }
 
         h2 {
             background-color: #007acc;
             color: #fff;
             padding: 10px;
-            margin: 10px 0;
         }
 
         ul {
@@ -52,24 +60,23 @@
     </style>
 </head>
 <body>
-    <h1>Diabetes Risk Prediction System</h1>
+    <div class="container">
+        <h1>Diabetes Risk Prediction System</h1>
+        <div class="about">
+            <p>Diabetes is a common disease affecting a significant part of the population. It is a global concern, but many people are unaware of how to manage it. Diabetes occurs when the level of glucose in the blood, often called hyperglycemia, rises above the required level. The inability of the pancreas to produce the required insulin or the inability to use it properly to convert glucose into energy is the cause of diabetes. Diabetes can be classified into three major types: Diabetes Mellitus, Diabetes Insipidus, and Gestational Diabetes. This project is a data science project in which we predict whether a given data point is diabetic or not.</p>
+        </div>
 
-    <p>Diabetes is a common disease affecting a significant part of the population. It is a global concern, but many people are unaware of how to manage it. Diabetes occurs when the level of glucose in the blood, often called hyperglycemia, rises above the required level. The inability of the pancreas to produce the required insulin or the inability to use it properly to convert glucose into energy is the cause of diabetes. Diabetes can be classified into three major types: Diabetes Mellitus, Diabetes Insipidus, and Gestational Diabetes. This project is a data science project in which we predict whether a given data point is diabetic or not.
+        <h2>Project Artifacts</h2>
+        <ul>
+            <li><a href="./artifacts/artifact1.pdf" target="_blank">Link to Artifact 1</a></li>
+            <li><a href="./artifacts/artifact2.jpg" target="_blank">Link to Artifact 2</a></li>
+        </ul>
 
-    Since it involves a classification technique, which is a type of supervised machine learning, we build the model using different classification algorithms such as K-Nearest Neighbors and Support Vector Machine. The K-Nearest Neighbors model provided the highest accuracy in predicting whether a given data point is diabetic or not.
-
-    For this research, we will need a dataset with a variety of information about people, including but not limited to age, gender, family medical history, lifestyle factors (diet, exercise), and results of medical tests (such as blood glucose levels). Acceptable sources of data include publicly accessible health datasets, anonymized medical records with proper permissions, and specially designed surveys for this project.</p>
-
-    <h2>Project Artifacts</h2>
-    <ul>
-        <li><a href="./artifacts/artifact1.pdf" target="_blank">Link to Artifact 1</a></li>
-        <li><a href="./artifacts/artifact2.jpg" target="_blank">Link to Artifact 2</a></li>
-    </ul>
-
-    <h2>Project Documents</h2>
-    <ul>
-        <li><a href="./docs/document1.pdf" target="_blank">Link to Document 1</a></li>
-        <li><a href="./docs/document2.docx" target="_blank">Link to Document 2</a></li>
-    </ul>
+        <h2>Project Documents</h2>
+        <ul>
+            <li><a href="./docs/document1.pdf" target="_blank">Link to Document 1</a></li>
+            <li><a href="./docs/document2.docx" target="_blank">Link to Document 2</a></li>
+        </ul>
+    </div>
 </body>
 </html>
