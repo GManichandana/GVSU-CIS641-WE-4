@@ -156,9 +156,6 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 
 
 # Software Artifacts
-<ul>
-            <li><a href="./artifacts/Activity and Use case.pdf" target="_blank">Activity and Use case Documents</a></li>
-            <li><a href="./artifacts/CRC CARD, Object, class.pdf" target="_blank">CRC CARD, class, object Documents</a></li>
-             <li><a href="./artifacts/Navigation_Diagram.png" target="_blank">Navigation Diagram</a></li>
-            <li><a href="./artifacts/README.md" target="_blank">Artifacts README</a></li>
-</ul>
+* [Activity and UseCase Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)
+* [Class and Object Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/CRC%20CARD%2C%20Object%2C%20class.pdf)
+* [Navigation Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Navigation_Diagram.png)
