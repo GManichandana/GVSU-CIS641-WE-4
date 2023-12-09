@@ -100,6 +100,13 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 | UseCase7 | K Neighbors Classifier	| FR16-FR20 |
 | UseCase8 | Support Vector Classifier |	FR21-FR25 |
 
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| 1 | [Use Case Diagram] | FR1-FR5,NFR16-NFR20 |
+| 2 | [Use Case Diagram]| FR2-FR10,NFR14 |
+| 3 | [Use Case Diagram] | FR12-FR15, FR18-FR20, FR21-FR25, NFR1,NFR2,,FR11,NFR11-NFR15|
+
+
 # Software Artifacts
 <ul>
             <li><a href="./artifacts/Activity and Use case.pdf" target="_blank">Activity and Use case Documents</a></li>
