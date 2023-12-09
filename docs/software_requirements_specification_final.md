@@ -89,16 +89,6 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 
 # Tracebility Links
 ## Use Case Diagram Traceability
-| Artifact ID	| Artifact Name	| Requirement ID |
-| :-------------: | :----------: |
-| UseCase1 | Data Import |	FR1 |
-| UseCase2 | Data Display	| FR2, FR3 |
-| UseCase3 | Missing Values Check |	FR4 |
-| UseCase4 | Data Standardization	| FR5 |
-| UseCase5 | Data Visualization	| FR6-FR10 |
-| UseCase6 | Model Building	| FR11-FR15 |
-| UseCase7 | K Neighbors Classifier	| FR16-FR20 |
-| UseCase8 | Support Vector Classifier |	FR21-FR25 |
 
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
@@ -110,6 +100,40 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 | UseCase6 | Model Building | FR11-FR15 |
 | UseCase7 | K Neighbors Classifier | FR16-FR20 |
 | UseCase8 | Support Vector Classifier| FR21-FR25 |
+
+## Class Diagram Traceability
+
+| Artifact Name | Requirement ID |
+| :----------: | :----------: |
+| classDataImporter	| FR1 |
+| classDataDisplayer | FR2, FR3 |
+| classMissingValuesChecker |	FR4 |
+| classDataStandardizer	| FR5 |
+| classDataVisualizer	| FR6-FR10 |
+| classModelBuilder	| FR11-FR15 |
+| classKNeighborsClassifier	| FR16-FR20 |
+| classSupportVectorClassifier	| FR21-FR25 |
+| classReliabilityManager	| NFR11-NFR15 |
+| classSecurityManager	| NFR16-NFR20 |
+| classScalabilityManager | NFR21-NFR25 |
+
+## Activity Diagram Traceability
+
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| Activity_DataImport	| Data Import Process | FR1 |
+| Activity_DataDisplay	| Data Display Process	| FR2, FR3 	|
+| Activity_MissingValues	| Missing Values Check Process	| FR4	|
+| Activity_DataStandardization	| Data Standardization Process	| FR5	|
+| Activity_Visualization	| Data Visualization Process	| FR6-FR10	|
+| Activity_ModelBuilding	| Model Building Process	| FR11-FR15	|
+| Activity_KNeighborsClassifier	| K Neighbors Classifier Process	| FR16-FR20	|
+| Activity_SupportVectorClassifier	| Support Vector Classifier Process	| FR21-FR25	|
+| Activity_PerformanceMonitoring	| Performance Monitoring Process	| NFR1-NFR5	|
+| Activity_UserInterfaceDesign	| User Interface Design Process	| NFR6-NFR10	|
+| Activity_ReliabilityManagement	| Reliability Management Process	| NFR11-NFR15	|
+| Activity_SecurityManagement	| Security Management Process	| NFR16-NFR20	|
+| Activity_ScalabilityManagement	| Scalability Management Process	| NFR21-NFR25	|
 
 
 
