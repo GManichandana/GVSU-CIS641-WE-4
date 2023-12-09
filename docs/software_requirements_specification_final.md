@@ -1,0 +1,83 @@
+# This document serves as the Software Requirements Specification (SRS) for the project(Diabetes Risk Prediction System). The purpose of this document is to provide a comprehensive overview of the functional and non-functional requirements for the software project, ensuring a clear understanding of what the software should do and how it should perform.
+
+# Functional Requirements
+### Data Import and Preprocessing:
+### ID Requirement
+FR1 The system shall be capable of importing data from an external CSV file (e.g., 'diabetes.csv').
+FR2 The system shall display the shape of the dataset, providing the number of rows and columns.
+FR3 The system shall display the first few rows of the dataset to allow users to explore the data.
+FR4 The system shall check for missing values in the dataset and report the count of missing values.
+FR5 The system shall perform data standardization to prepare the data for modeling.
+
+
+### Data Visualization: 
+### ID Requirement
+FR6   The system shall generate a correlation matrix heatmap to visualize the relationships between variables.
+FR7   The system shall create a pie chart to display the distribution of diabetic and non-diabetic individuals.
+FR8   The system shall generate a countplot to display the count of diabetic and non-diabetic individuals.
+FR9   It shall generate and display a correlation matrix to visualize the relationships between different variables.
+FR10  The system shall calculate and display descriptive statistics, including mean, median, and standard deviation, for each column in the dataset.
+
+### Model Building and Evaluation: 
+FR11 The system shall split the dataset into training and testing sets using a specified ratio (e.g., 80% training, 20% testing).
+FR12 The system shall apply feature scaling to the training and testing data to ensure uniform ranges for features.
+FR13 The system shall build a K Neighbors Classifier model with variable 'k' and report the accuracy scores for different 'k' values.
+FR14 The system shall build a Support Vector Classifier model with various kernel functions (e.g., linear, poly, rbf, sigmoid) and report accuracy scores for each kernel.
+FR15 The system shall accept new input data in the form of a tuple or array and preprocess it in the same manner as the training data.
+
+### K Neighbors Classifier
+ID Requirement
+FR16 The software shall implement the K Neighbors Classifier.
+FR17 The software shall determine the optimal number of neighbors through cross-validation.
+FR18 The software shall display a plot of classifier scores for different values of k.
+FR19 The software shall present the accuracy of the selected model on the test set.
+FR20 The software shall generate and display predictions for new input data.
+
+### Support Vector Classifier
+### ID Requirement
+FR21 The software shall implement the Support Vector Classifier.
+FR22 The software shall evaluate and display the classifier scores for different kernel functions.
+FR23 The software shall present the accuracy of the selected model with the best-performing kernel.
+FR24 The software shall generate and display predictions for new input data.
+FR25 The software shall verify model correctness against the selected model.
+
+# Non-Functional Requirements
+### Performance
+### ID Requirement
+NFR1 The model training process shall not exceed a specified time limit.
+NFR2 The prediction time for new input data shall be within acceptable bounds.
+NFR3 The software shall handle datasets of varying sizes efficiently.
+NFR4 The memory consumption during model training shall be optimized.
+NFR5 The software shall provide feedback on the training progress and completion time.
+
+### Usability
+### ID Requirement
+NFR6 The user interface shall be intuitive and user-friendly.
+NFR7 The software shall provide clear instructions for dataset loading and preprocessing.
+NFR8 Visualizations and plots shall be easy to interpret.
+NFR9 Error messages shall be informative and guide the user in resolving issues.
+NFR10 The software shall have a responsive design for various screen sizes.
+
+### Reliability
+### ID Requirement
+NFR11 The selected model shall achieve a minimum accuracy threshold on test data.
+NFR12 The software shall handle unexpected input data gracefully.
+NFR13 The models shall be retrainable with new data without significant performance degradation.
+NFR14 Robustness tests shall be conducted to ensure stability under varying conditions.
+NFR15 The software shall log and handle errors effectively to maintain reliability.
+
+### Security
+### ID Requirement
+NFR16 The software shall handle sensitive health data securely.
+NFR17 Access controls shall be implemented to restrict unauthorized access to the dataset.
+NFR18 Data encryption shall be applied to protect stored and transmitted data.
+NFR19 User authentication mechanisms shall be in place to control access to the software.
+NFR20 The software shall comply with relevant data protection regulations.
+
+### Scalability
+### ID Requirement
+NFR21 The software shall be capable of handling a growing number of users concurrently.
+NFR22 The model training process shall scale efficiently with increasing dataset sizes.
+NFR23 The software shall support parallel processing for improved performance.
+NFR24 Scalability tests shall be conducted to identify and resolve potential bottlenecks.
+NFR25 The system shall provide options for horizontal and vertical scalability.
