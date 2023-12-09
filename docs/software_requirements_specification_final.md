@@ -72,3 +72,17 @@
 * NFR23 - The software shall support parallel processing for improved performance.
 * NFR24 - Scalability tests shall be conducted to identify and resolve potential bottlenecks.
 * NFR25 - The system shall provide options for horizontal and vertical scalability.
+
+# Change Management Plan
+### How will you train people to use it?
+
+People would first need to be educated about diabetes, including its forms, symptoms, and risk factors, before being trained in diabetes risk prediction analysis. An explanation of the instrument or method used for risk prediction, including its creation, guiding principles, and how to manage pertinent data such patient demographics and medical history, comes next. In-depth discussions of risk prediction models and algorithms, hands-on practice sessions, and advice on evaluating findings and coming to wise judgments would all be included in the program. In addition, emphasis would be placed on ethical issues, patient data protection, how to effectively communicate risk assessments to patients, and the value of ongoing education in this quickly developing sector. Frequent evaluations and comments would guarantee a thorough comprehension and utilization of the instrument in actual healthcare environments.
+ 
+### How will you ensure it integrates within their ecosystem / software?
+
+To guarantee a smooth integration of a diabetes risk prediction tool into an already-existing healthcare ecosystem, a comprehensive compatibility evaluation is necessary to detect any possible concerns related to compatibility and technology. It is necessary to carry out thorough testing and validation procedures to guarantee correct functionality and data integrity. For the instrument to function properly, personnel must receive regular maintenance and upgrades, as well as training and ongoing support. Important actions include thinking about scalability for future requirements and including important stakeholders at every stage of the integration process. Following integration, a feedback loop and ongoing monitoring assist in resolving any problems and enhancing the effectiveness of the system
+
+
+### How will you ensure that any discovered issues are resolved?
+
+A strong monitoring and reporting system is necessary to guarantee that any problems with the diabetes risk prediction tool are promptly fixed. Regular performance reviews, channels for user input, and procedures for reporting errors should all be part of this system. There should be a committed support staff in place that is knowledgeable about the tool's clinical and technical features so they can quickly identify and resolve problems. It is imperative to make ongoing upgrades and enhancements in response to consumer input and technology developments. Working together with IT experts, medical professionals, and the tool's creators is essential for a thorough knowledge and prompt problem-solving. Maintaining the tool's dependability and efficacy in the healthcare ecosystem also depends on taking a proactive stance to foresee and address such problems before they become more serious.>
