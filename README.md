@@ -22,7 +22,8 @@ improve decision makingand reduces the cost and it can give better output and im
 
 
 ## Run Instructions
- 
+
+- Clone the project from (https://github.com/GManichandana/GVSU-CIS641-WE-4) 
 - Import all the required libraries.  
 - Read the dataset and store it into a new variable.  
 - Check the shape of the dataset.
