@@ -14,7 +14,7 @@ improve decision makingand reduces the cost and it can give better output and im
 
 ## Prerequisites
 
- - understanding the basic of diabetes and types.
+ - Understanding the basic of diabetes and types.
  - Proficiency in programming language used in data science
  - Collecting the data from individuals
  - Familiarity with concepts of machine learning
@@ -23,10 +23,11 @@ improve decision makingand reduces the cost and it can give better output and im
 
 ## Run Instructions
  
- - Environment set up
- - Install Required Libraries
- - Data collection and Preprocessing
- - Evaluation of Model
- - Testing
- - Deployment
- - Collaboration
+- Import all the required libraries.  
+- Read the dataset and store it into a new variable.  
+- Check the shape of the dataset.
+- Check for missing values in dataset. 
+- Perform the data visualization process. 
+- Select the model( K Neighbors Classifier, Support Vector Classifier). 
+- Check for the highest accuracy among all the algorithms used.  
+- After finding highest accuracy, check whether the model selected is correct or not.
