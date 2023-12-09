@@ -89,15 +89,16 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 
 # Tracebility Links
 ## Use Case Diagram Traceability
-Artifact ID	| Artifact Name	| Requirement ID
-UseCase1 | Data Import |	FR1
-UseCase2 | Data Display	| FR2, FR3
-UseCase3 | Missing Values Check |	FR4
-UseCase4 | Data Standardization	| FR5
-UseCase5 | Data Visualization	| FR6-FR10
-UseCase6 | Model Building	| FR11-FR15
-UseCase7 | K Neighbors Classifier	| FR16-FR20
-UseCase8 | Support Vector Classifier |	FR21-FR25
+| Artifact ID	| Artifact Name	| Requirement ID |
+| :-------------: | :----------: |
+| UseCase1 | Data Import |	FR1 |
+| UseCase2 | Data Display	| FR2, FR3 |
+| UseCase3 | Missing Values Check |	FR4 |
+| UseCase4 | Data Standardization	| FR5 |
+| UseCase5 | Data Visualization	| FR6-FR10 |
+| UseCase6 | Model Building	| FR11-FR15 |
+| UseCase7 | K Neighbors Classifier	| FR16-FR20 |
+| UseCase8 | Support Vector Classifier |	FR21-FR25 |
 
 # Software Artifacts
 <ul>
