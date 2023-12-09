@@ -86,3 +86,11 @@ To guarantee a smooth integration of a diabetes risk prediction tool into an alr
 ### How will you ensure that any discovered issues are resolved?
 
 A strong monitoring and reporting system is necessary to guarantee that any problems with the diabetes risk prediction tool are promptly fixed. Regular performance reviews, channels for user input, and procedures for reporting errors should all be part of this system. There should be a committed support staff in place that is knowledgeable about the tool's clinical and technical features so they can quickly identify and resolve problems. It is imperative to make ongoing upgrades and enhancements in response to consumer input and technology developments. Working together with IT experts, medical professionals, and the tool's creators is essential for a thorough knowledge and prompt problem-solving. Maintaining the tool's dependability and efficacy in the healthcare ecosystem also depends on taking a proactive stance to foresee and address such problems before they become more serious.>
+
+# Tracebility Links
+# Software Artifacts
+<ul>
+            <li><a href="./artifacts/Activity and Use case.pdf" target="_blank">Activity and Use case Documents</a></li>
+            <li><a href="./artifacts/CRC CARD, Object, class.pdf" target="_blank">CRC CARD, class, object Documents</a></li>
+            <li><a href="./artifacts/README.md" target="_blank">Artifacts README</a></li>
+        </ul>
