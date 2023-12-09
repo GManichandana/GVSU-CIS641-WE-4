@@ -94,5 +94,4 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
             <li><a href="./artifacts/CRC CARD, Object, class.pdf" target="_blank">CRC CARD, class, object Documents</a></li>
              <li><a href="./artifacts/Navigation_Diagram.png" target="_blank">Navigation Diagram</a></li>
             <li><a href="./artifacts/README.md" target="_blank">Artifacts README</a></li>
-
-        </ul>
+</ul>
