@@ -3,11 +3,11 @@
 # Functional Requirements
 ### Data Import and Preprocessing:
 ### ID Requirement
-FR1 The system shall be capable of importing data from an external CSV file (e.g., 'diabetes.csv').
-FR2 The system shall display the shape of the dataset, providing the number of rows and columns.
-FR3 The system shall display the first few rows of the dataset to allow users to explore the data.
-FR4 The system shall check for missing values in the dataset and report the count of missing values.
-FR5 The system shall perform data standardization to prepare the data for modeling.
+* FR1 The system shall be capable of importing data from an external CSV file (e.g., 'diabetes.csv').
+* FR2 The system shall display the shape of the dataset, providing the number of rows and columns.
+* FR3 The system shall display the first few rows of the dataset to allow users to explore the data.
+* FR4 The system shall check for missing values in the dataset and report the count of missing values.
+* FR5 The system shall perform data standardization to prepare the data for modeling.
 
 
 ### Data Visualization: 
