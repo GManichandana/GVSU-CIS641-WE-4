@@ -38,6 +38,7 @@
 * FR25 - The software shall verify model correctness against the selected model.
 
 # Non-Functional Requirements
+### Performance
 * NFR1 - The model training process shall not exceed a specified time limit.
 * NFR2 - The prediction time for new input data shall be within acceptable bounds.
 * NFR3 - The software shall handle datasets of varying sizes efficiently.
