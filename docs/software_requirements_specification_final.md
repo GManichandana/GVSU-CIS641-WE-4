@@ -102,9 +102,15 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| 1 | [Use Case Diagram] | FR1-FR5,NFR16-NFR20 |
-| 2 | [Use Case Diagram]| FR2-FR10,NFR14 |
-| 3 | [Use Case Diagram] | FR12-FR15, FR18-FR20, FR21-FR25, NFR1,NFR2,,FR11,NFR11-NFR15|
+| UseCase1 | Data Import | FR1 |
+| UseCase2 | Data Display | FR2, FR3 |
+| UseCase3 | Missing Values Check | FR4 |
+| UseCase4 | Data Standardization | FR5 |
+| UseCase5 | Data Visualization| FR6-FR10 |
+| UseCase6 | Model Building | FR11-FR15 |
+| UseCase7 | K Neighbors Classifier | FR16-FR20 |
+| UseCase8 | Support Vector Classifier| FR21-FR25 |
+
 
 
 # Software Artifacts
