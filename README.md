@@ -20,6 +20,10 @@ improve decision makingand reduces the cost and it can give better output and im
  - Familiarity with concepts of machine learning
  - Comfortable with data science libraries like MumPY, pandas, Mat lab, visualization
 
+ ## Links
+ * [Diabetes_Prediction Github Page](https://gmanichandana.github.io/GVSU-CIS641-WE-4/)
+ * [Software_Requirements_Specifications](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/docs/software_requirements_specification_final.md)
+
 
 ## Run Instructions
 
