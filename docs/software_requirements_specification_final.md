@@ -88,12 +88,13 @@ To guarantee a smooth integration of a diabetes risk prediction tool into an alr
 A strong monitoring and reporting system is necessary to guarantee that any problems with the diabetes risk prediction tool are promptly fixed. Regular performance reviews, channels for user input, and procedures for reporting errors should all be part of this system. There should be a committed support staff in place that is knowledgeable about the tool's clinical and technical features so they can quickly identify and resolve problems. It is imperative to make ongoing upgrades and enhancements in response to consumer input and technology developments. Working together with IT experts, medical professionals, and the tool's creators is essential for a thorough knowledge and prompt problem-solving. Maintaining the tool's dependability and efficacy in the healthcare ecosystem also depends on taking a proactive stance to foresee and address such problems before they become more serious.>
 
 # Tracebility Links
-				Final Deliverables
-	
-	
-
-
-
+## Use Case Diagram Traceability
+| Artifact ID | Artifact Name | Requirement ID |
+| :-------------: | :----------: | :----------: |
+| 1 | [UseCase1]
+<li>
+<a href="./artifacts/Activity and Use case.pdf" target="_blank">Activity and Use case Documents</a></li> | FR1-FR5,NFR16-NFR20 | 
+</li>
 
 # Software Artifacts
 <ul>
