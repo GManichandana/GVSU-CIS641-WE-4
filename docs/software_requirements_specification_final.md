@@ -121,19 +121,17 @@ A strong monitoring and reporting system is necessary to guarantee that any prob
 
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| Activity_DataImport	| Data Import Process | FR1 |
-| Activity_DataDisplay	| Data Display Process	| FR2, FR3 	|
-| Activity_MissingValues	| Missing Values Check Process	| FR4	|
-| Activity_DataStandardization	| Data Standardization Process	| FR5	|
-| Activity_Visualization	| Data Visualization Process	| FR6-FR10	|
-| Activity_ModelBuilding	| Model Building Process	| FR11-FR15	|
-| Activity_KNeighborsClassifier	| K Neighbors Classifier Process	| FR16-FR20	|
-| Activity_SupportVectorClassifier	| Support Vector Classifier Process	| FR21-FR25	|
-| Activity_PerformanceMonitoring	| Performance Monitoring Process	| NFR1-NFR5	|
-| Activity_UserInterfaceDesign	| User Interface Design Process	| NFR6-NFR10	|
-| Activity_ReliabilityManagement	| Reliability Management Process	| NFR11-NFR15	|
-| Activity_SecurityManagement	| Security Management Process	| NFR16-NFR20	|
-| Activity_ScalabilityManagement	| Scalability Management Process	| NFR21-NFR25	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Data Import Process | FR1 |
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Data Display Process	| FR2, FR3 	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Missing Values Check Process	| FR4	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Data Standardization Process	| FR5	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Data Visualization Process	| FR6-FR10	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Model Building Process	| FR11-FR15	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| K Neighbors Classifier Process	| FR16-FR20	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Support Vector Classifier Process	| FR21-FR25	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Reliability Management Process	| NFR11-NFR15	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Security Management Process	| NFR16-NFR20	|
+| [Activity Diagram](https://github.com/GManichandana/GVSU-CIS641-WE-4/blob/main/artifacts/Activity%20and%20Use%20case.pdf)	| Scalability Management Process	| NFR21-NFR25	|
 
 
 
